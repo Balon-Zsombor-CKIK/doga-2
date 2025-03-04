@@ -4,3 +4,4 @@ harmadik commit
 negyedik commit
 ötödik commit
 hatodik commit
+hetedik commit
